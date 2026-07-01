@@ -217,25 +217,6 @@ You can open multiple client instances simultaneously to simulate a distributed 
 
 ---
 
-# 📸 Screenshots
-
-## Server Dashboard
-
-![Server Screenshot](assets/screenshots/server_dashboard.png)
-
-## Client Interface
-
-![Client Screenshot](assets/screenshots/client_interface.png)
-
-## Leaderboard
-
-![Leaderboard Screenshot](assets/screenshots/leaderboard.png)
-
----
-
-
----
-
 # 📈 Future Enhancements
 
 * Database integration using SQLite or MySQL
